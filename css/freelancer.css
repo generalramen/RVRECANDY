@@ -36,6 +36,14 @@ h6 {
     font-weight: 700;
 }
 
+.blueheader {
+    color: blue;
+
+}
+
+
+
+
 hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;
